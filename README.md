@@ -39,3 +39,18 @@
 [GitHub](https://github.com/sdgdo/test1)
 
 ![自定义图片](C://Users//cjn//Desktop//xxx.jpg)
+
+...
+   c
+   	#include <stdio.h>
+	int main()
+	{
+		return 0;
+	}
+...
+
+...
+   python
+   	import os
+
+
