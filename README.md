@@ -40,17 +40,11 @@
 
 ![自定义图片](C://Users//cjn//Desktop//xxx.jpg)
 
-...
-   c
-   	#include <stdio.h>
+```c
+	#include <stdio.h>
 	int main()
 	{
 		return 0;
 	}
-...
-
-...
-   python
-   	import os
-
+```
 
