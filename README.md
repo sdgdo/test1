@@ -35,3 +35,7 @@
     * CPU概述
     * 内存管理系统
   2. 网络构成
+
+[GitHub](https://github.com/sdgdo/test1)
+
+![自定义图片](C://Users//cjn//Desktop//xxx.jpg)
